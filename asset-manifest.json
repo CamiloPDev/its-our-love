@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/its-our-love/static/css/main.f855e6bc.css",
+    "main.js": "/its-our-love/static/js/main.dc622b56.js",
+    "static/js/453.d969477c.chunk.js": "/its-our-love/static/js/453.d969477c.chunk.js",
+    "static/media/logo.svg": "/its-our-love/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/its-our-love/index.html",
+    "main.f855e6bc.css.map": "/its-our-love/static/css/main.f855e6bc.css.map",
+    "main.dc622b56.js.map": "/its-our-love/static/js/main.dc622b56.js.map",
+    "453.d969477c.chunk.js.map": "/its-our-love/static/js/453.d969477c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.dc622b56.js"
+  ]
+}
