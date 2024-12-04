@@ -1,0 +1,38 @@
+.letter {
+    font-family:"Poiret One";
+}
+
+.center {
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-quiz {
+    border: 2px solid black;
+    margin-top: 50px;
+    border-radius: 1.5%;
+    /* padding: 5px; */
+}
+
+.title-quiz {
+    background-color: pink;
+    margin-bottom: 10px;
+    padding: 5px;
+    border-bottom: 1px solid black;
+    text-align: center;
+}
+
+.quiz-options {
+    display: flex;
+    flex-direction: column;   
+}
+.quiz-options button{
+    padding: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
