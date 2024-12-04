@@ -53,7 +53,11 @@ const Quiz = ({questions}) => {
             {score === questions.length ? (
               <div>
                 <h3 className='letter'>¡Premio! Has respondido todas las preguntas correctamente.</h3>
-                <p className='letter'>¡Ven a cenar conmigo! 🎉</p>
+                <div className="invitation">
+                  <h2>Estas invitada a una cita con el amor de tu vida</h2>
+                  <h3>Hora: 8:30 PM</h3>
+                  <img src={`${process.env.PUBLIC_URL}/cat.jpg`} alt="cat" />
+                </div>
               </div>
             ) : (
               <div>

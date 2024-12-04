@@ -36,3 +36,17 @@
     padding: 10px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
 }
+
+.invitation {
+    border: 1px solid aqua;
+    background-color: aqua;
+    margin: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.invitation img {
+    width: 300px;
+    height: 300px;
+}
